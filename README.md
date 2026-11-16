@@ -1,6 +1,5 @@
 [![Documentation Status](https://readthedocs.org/projects/li-can-slv/badge/?version=latest)](https://li-can-slv.readthedocs.io/en/latest/?badge=latest)
-[![Build Status](https://travis-ci.com/liebherrnenzing/li_can_slv.svg?branch=master)](https://travis-ci.com/liebherrnenzing/li_can_slv)
-[![Build status](https://ci.appveyor.com/api/projects/status/ajirt2alh6i41820?svg=true)](https://ci.appveyor.com/project/mgiaco/li-can-slv)
+[![Build](https://github.com/liebherrnenzing/li_can_slv/actions/workflows/WORKFLOW_FILE.yml/badge.svg?branch=master)](https://github.com/liebherrnenzing/li_can_slv/actions/workflows/WORKFLOW_FILE.yml)
 [![codecov](https://codecov.io/gh/liebherrnenzing/li_can_slv/branch/master/graph/badge.svg)](https://codecov.io/gh/liebherrnenzing/li_can_slv)
 
 # li_can_slv 
