@@ -1,5 +1,5 @@
 [![Documentation Status](https://readthedocs.org/projects/li-can-slv/badge/?version=latest)](https://li-can-slv.readthedocs.io/en/latest/?badge=latest)
-[![Build](https://github.com/liebherr-group/li_can_slv/actions/workflows/WORKFLOW_FILE.yml/badge.svg?branch=master)](https://github.com/liebherr-group/li_can_slv/actions/workflows/WORKFLOW_FILE.yml)
+[![Build](https://github.com/liebherr-group/li_can_slv/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/liebherr-group/li_can_slv/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/liebherr-group/li_can_slv/branch/master/graph/badge.svg)](https://codecov.io/gh/liebherrnenzing/li_can_slv)
 
 # li_can_slv 
