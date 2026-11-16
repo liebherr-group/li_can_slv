@@ -1,6 +1,6 @@
 [![Documentation Status](https://readthedocs.org/projects/li-can-slv/badge/?version=latest)](https://li-can-slv.readthedocs.io/en/latest/?badge=latest)
-[![Build](https://github.com/liebherrnenzing/li_can_slv/actions/workflows/WORKFLOW_FILE.yml/badge.svg?branch=master)](https://github.com/liebherrnenzing/li_can_slv/actions/workflows/WORKFLOW_FILE.yml)
-[![codecov](https://codecov.io/gh/liebherrnenzing/li_can_slv/branch/master/graph/badge.svg)](https://codecov.io/gh/liebherrnenzing/li_can_slv)
+[![Build](https://github.com/liebherr-group/li_can_slv/actions/workflows/WORKFLOW_FILE.yml/badge.svg?branch=master)](https://github.com/liebherr-group/li_can_slv/actions/workflows/WORKFLOW_FILE.yml)
+[![codecov](https://codecov.io/gh/liebherr-group/li_can_slv/branch/master/graph/badge.svg)](https://codecov.io/gh/liebherrnenzing/li_can_slv)
 
 # li_can_slv 
 The Liebherr CAN protocol describes the communication of a distributed control system via CAN bus. It is designed to allow synchronous, deterministic real-time networking based on a master-slave system, whereby all input and output modules are connected to a master via CAN bus. This repository includes a slave implementation of the Liebherr CAN protocol.
